@@ -1,0 +1,11 @@
+{
+  "name": "فێرگەی مێژوو — History Mastery & Memory",
+  "short_name": "فێرگەی مێژوو",
+  "description": "سیستەمی فێربوونی مێژوو و یادگەی درێژخایەن بە زمانی کوردیی سۆرانی",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1c1917",
+  "theme_color": "#b8860b",
+  "dir": "rtl",
+  "lang": "ckb"
+}
